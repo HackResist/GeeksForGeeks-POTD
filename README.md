@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#blank"><img src="Untitled.png" alt="HackResist"></a>
+  <a href="#blank"><img src="Geeksforgeeks.png" alt="HackResist"></a>
 </p>
 <div align='left'>
 
