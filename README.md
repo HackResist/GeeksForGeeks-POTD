@@ -18,8 +18,8 @@
 
 
 ## ⭐️Features
- - **Daily Solutions:**   Get solutions to GeeksforGeeks' Problem of the Day challenges delivered straight to your GitHub repository.
- Get solutions to GeeksforGeeks' Problem of the Day challenges delivered straight to your GitHub repository.
+ - **Daily Solutions:**   Get solutions to GeeksforGeeks' Problem of the Day challenges delivered straight from my GitHub repository.
+
 
  - **Multiple Languages:** Solutions are provided in all supported languages by GeeksforGeeks, including Python, Java, C++, JavaScript, and more, allowing users to choose their preferred programming language.
 
