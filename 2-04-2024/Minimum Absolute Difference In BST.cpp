@@ -95,31 +95,27 @@ struct Node {
 
 };
 */
-
-class Solution
-{
+class Solution {
+public:
 //Your Code Start
-    public:
-    void inorder(Node * root,vector<int> &v)
-    {
-        if(!root) return;
-        if(root->left) inorder(root->left,v);
+    // Helper function for inorder traversal
+    void inorder(Node *root, vector<int> &v) {
+        if (!root) return;
+        inorder(root->left, v);
         v.push_back(root->data);
-        if(root->right) inorder(root->right,v);
+        inorder(root->right, v);
     }
-    int absolute_diff(Node *root)
-    {
-        
+
+    // Main function to calculate absolute difference
+    int absolute_diff(Node *root) {
         vector<int> v;
-        inorder(root,v);
+        inorder(root, v);
         int ans = INT_MAX;
-        int n = v.size();
-        for(int i= 1;i<n;i++)
-        {
-            ans = min(ans,v[i] - v[i-1]);
+        for (int i = 1; i < v.size(); i++) {
+            ans = min(ans, v[i] - v[i - 1]);
         }
         return ans;
-//Your Code End
+        //Your Code End
     }
 };
 
