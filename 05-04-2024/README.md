@@ -45,12 +45,12 @@ One such array after operation can be [-2, -1, 0, 1]. We require atleast 3 opera
   - You don't need to read or print anything. Your task is to complete the function min_opeartions() which takes the array nums as input parameter and returns the minimum number of opeartion needed to make the array strictly increasing.
 
 ## Expected Time Complexity:
- ```n^2```
+ ```O(n²)```
 ## Expected Space Complexity: 
 ```O(n)```
 
 ## Constraints: 
-```1 <= n <= 10^3```
+```1 <= n <= 10³```
 
 ```1 <= nums[i] <= 10^9```
 ## Company Tag: 
