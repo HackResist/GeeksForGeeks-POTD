@@ -60,8 +60,6 @@ Maximum Dot Product = 1*0 + 2*0 + 3*4 = 12.
 ## Company Tag: 
 
 <p align="left">
-<!--<a href="https://www.geeksforgeeks.org/explore/?company[]=Directi"><img src="https://img.shields.io/badge/Directi
--10000?style=for-the-badge&logo=Directi&logoColor=FFFFF&labelColor=D8893&color=2A19D7"/></a> -->
  <a href="https://www.geeksforgeeks.org/explore/?company[]=Directi"><img src="https://img.shields.io/badge/Directi-10000?style=for-the-badge&logo=Directi&logoColor=FFFFFF&labelColor=D88913&color=2A79D7"/> </a>
 
 </p>
