@@ -1,8 +1,6 @@
  [Go To Problem](https://www.geeksforgeeks.org/problems/sum-of-products5049/1)
 # Sum of Products
 
-
-
 <div align="center">
   <strong>Medium</strong>    
 </div>
