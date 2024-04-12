@@ -57,11 +57,11 @@ Explanation:
 <p align="center">
 <p align="left">
 
-<a href="https://www.geeksforgeeks.org/explore/?company[]=Amazon"><img src="https://img.shields.io/badge/Amazon-10000?style=for-the-badge&logo=Amazon&logoColor=FFFFFF&labelColor=D88913&color=2A79D7"/> </a>
-<a href="https://www.geeksforgeeks.org/explore/?company[]=Cisco"><img src="https://img.shields.io/badge/Cisco-10000?style=for-the-badge&logo=Cisco&logoColor=FFFFFF&labelColor=2A79D7&color=453F78"/> </a>
-<a href="https://www.geeksforgeeks.org/explore/?company[]=Qualcomm"><img src="https://img.shields.io/badge/Qualcomm-10000?style=for-the-badge&logo=Qualcomm&logoColor=FFFFFF&labelColor=A0153E&color=E72929"/> </a>
-<a href="https://www.geeksforgeeks.org/explore/?company[]=HCL"><img src="https://img.shields.io/badge/HCL-10000?style=for-the-badge&logo=HCL&logoColor=FFFFFF&labelColor=1619AB&color=1679AB"/> </a>
-<a href="https://www.geeksforgeeks.org/explore/?company[]=Nvidia"><img src="https://img.shields.io/badge/Nvidia-10000?style=for-the-badge&logo=Nvidia&logoColor=54B435&labelColor=F6F6C9&color=BAD1C2"/> </a>
+<a href="https://www.geeksforgeeks.org/explore/?company[]=Amazon"><img src="https://img.shields.io/badge/Amazon-10000?style=for-the-badge&logo=Amazon&logoColor=FFFFFF&labelColor=D88913&color=2A79D7"/></a>
+<a href="https://www.geeksforgeeks.org/explore/?company[]=Cisco"><img src="https://img.shields.io/badge/Cisco-10000?style=for-the-badge&logo=Cisco&logoColor=FFFFFF&labelColor=2A79D7&color=453F78"/></a>
+<a href="https://www.geeksforgeeks.org/explore/?company[]=Qualcomm"><img src="https://img.shields.io/badge/Qualcomm-10000?style=for-the-badge&logo=Qualcomm&logoColor=FFFFFF&labelColor=A0153E&color=E72929"/></a>
+<a href="https://www.geeksforgeeks.org/explore/?company[]=HCL"><img src="https://img.shields.io/badge/HCL-10000?style=for-the-badge&logo=HCL&logoColor=FFFFFF&labelColor=1619AB&color=1679AB"/></a>
+<a href="https://www.geeksforgeeks.org/explore/?company[]=Nvidia"><img src="https://img.shields.io/badge/Nvidia-10000?style=for-the-badge&logo=Nvidia&logoColor=54B435&labelColor=F6F6C9&color=BAD1C2"/></a>
 
  
 
