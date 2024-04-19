@@ -1,5 +1,6 @@
  [Go To Problem](https://www.geeksforgeeks.org/problems/in-first-but-second5423/1)
-# Count Pairs in an Array
+# Find missing in second array
+
 
 
 <div align="center">
