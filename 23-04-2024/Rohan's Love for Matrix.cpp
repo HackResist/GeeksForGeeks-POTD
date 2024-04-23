@@ -12,7 +12,7 @@ class Solution {
   public:
     int firstElement(int n) {
         
-        int modulo = 1e9+7; // Define modulo value
+        int modulo = 1000000007; // Define modulo value
         if (n == 1 || n == 2) return 1; // Return 1 for n equals to 1 or 2
         int n1 = 1, n2 = 1; // Initialize the first two elements of the sequence
         int current = 0; // Initialize the variable to store the current element
