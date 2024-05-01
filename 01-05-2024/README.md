@@ -1,4 +1,4 @@
- [Go To Problem](https://www.geeksforgeeks.org/problems/arrange-consonants-and-vowels/1)
+[Go To Problem](https://www.geeksforgeeks.org/problems/arrange-consonants-and-vowels/1)
 # Arrange Consonants and Vowels
 
 <div align="center">
