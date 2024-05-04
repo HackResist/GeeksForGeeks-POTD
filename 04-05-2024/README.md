@@ -63,6 +63,7 @@ Driver code will print the preorder traversal of the constructed tree.
 <a href="https://www.geeksforgeeks.org/explore/?company[]=Amazon"><img src="https://img.shields.io/badge/Amazon-10000?style=for-the-badge&logo=Amazon&logoColor=&labelColor=FEFAF6&color=090907"/></a>
 <a href="https://www.geeksforgeeks.org/explore/?company[]=Microsoft"><img src="https://img.shields.io/badge/Microsoft-10000?style=for-the-badge&logo=Microsoft&logoColor=121481&labelColor=FDFFC2&color=929292"/></a>
 <a href="https://www.geeksforgeeks.org/explore/?company[]=Hike"><img src="https://img.shields.io/badge/Hike-10000?style=for-the-badge&logo=Hike&logoColor=&labelColor=FEFAF6&color=C70039"/></a>
+<a href="https://www.geeksforgeeks.org/explore/?company[]=Adobe"><img src="https://img.shields.io/badge/Adobe-10000?style=for-the-badge&logo=Adobe&logoColor=FFFFFF&labelColor=322C2B&color=ff3300"/></a>
 
 
 ## Topic Tags:
