@@ -1,7 +1,5 @@
  [Go To Problem](https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1)
 # Root to Leaf Paths
-
-
 <div align="center">
   <strong>Medium</strong>    
 </div>
