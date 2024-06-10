@@ -1,7 +1,8 @@
 
 ![GeeksForGeeks-POTD](https://socialify.git.ci/HackResist/GeeksforGeeks-POTD/image?description=1&descriptionEditable=Welcome%20to%20the%20repository.%20This%20repository%20Helps%20to%20Improve%20Your%20Coding%20Skills.%20&font=Rokkitt&name=1&owner=1&pattern=Solid&stargazers=1&theme=Dark)
 
-[Go To Today Solution(09-06-2024)](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/June/09-06-2024) 
+[Nuts and Bolts Problem
+(10-06-2024)](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/June/10-06-2024) 
 
 <!--
 <p align="center">
@@ -168,6 +169,8 @@
   [08-06-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/June/08-06-2024)
   
   [09-06-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/June/09-06-2024)
+  
+  [10-06-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/June/10-06-2024)
 </details>
 
 
