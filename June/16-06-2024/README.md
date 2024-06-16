@@ -1,8 +1,5 @@
  [Go To Problem](https://www.geeksforgeeks.org/problems/sum-of-prime4751/1)
 # Prime Pair with Target Sum
-
-
-
 <div align="center">
   <strong>Medium</strong>    
 </div>
