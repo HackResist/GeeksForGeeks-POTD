@@ -34,7 +34,7 @@ Explanation:
    The two line segments formed by p1-q1 and p2-q2 intersect.
 </pre>
 
-### 💡Example 2:
+### 💡Example 3:
 
 <pre>
 Input:
