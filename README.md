@@ -13,16 +13,10 @@
 <h1>📖Geeksforgeeks Porblem Of The Day Solutions</h1> 
 </div>
 
-<p>  Welcome to the GeeksforGeeks Problem of the Day (PotD) Solutions repository! This repository aims to provide daily solutions to the coding challenges presented by GeeksforGeeks as part of their Problem of the Day series. GeeksforGeeks is a popular platform for computer science resources, tutorials, and coding practice, offering a wide range of programming challenges to help developers enhance their skills.   </p>
- 
- ## *🔹Go To Geeksforgeeks:*
-<div align='center'>  <a href="https://geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-100000?style=plastic&logo=geeksforgeeks&logoColor=FFFFFF&labelColor=42BA3D&color=23891F" alt="Lokesh Chauhan | GeeksforGeeks"/></a>
-  </div>
- 
-<div align='center'>
-<h4> <span> · </span> <a href="https://github.com/HackResist/GeeksForGeeks-POTD/issues"> Report Mistakes </a> </h4>
-</div>
+ >Welcome to the GeeksforGeeks Problem of the Day (PotD) Solutions repository! This repository aims to provide daily solutions to the coding challenges presented by GeeksforGeeks as part of their Problem of the Day series. GeeksforGeeks is a popular platform for computer science resources, tutorials, and coding practice, offering a wide range of programming challenges to help developers enhance their skills.
 
+ 
+ >If this repository is helpful to you, don't forget to give it a star.⭐
 ## March Code:
 <details>
 <summary>This is March Solutions</summary>
