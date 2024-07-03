@@ -1,8 +1,8 @@
 
 ![GeeksForGeeks-POTD](https://socialify.git.ci/HackResist/GeeksforGeeks-POTD/image?description=1&descriptionEditable=Welcome%20to%20the%20repository.%20This%20repository%20Helps%20to%20Improve%20Your%20Coding%20Skills.%20&font=Rokkitt&name=1&owner=1&pattern=Solid&stargazers=1&theme=Dark)
 
-[Linked list of strings forms a palindrome
-(02-07-2024)](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/July%202024/02-07-2024) 
+[Remove all occurences of duplicates in a linked list
+(03-07-2024)](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/July%202024/03-07-2024) 
 
 <!--
 <p align="center">
@@ -213,6 +213,8 @@
   <summary>This is July Month Solutions</summary>
     
   [02-07-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/July%202024/02-07-2024)
+  
+  [03-07-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/July%202024/03-07-2024)
 </details>
 
 ## Feedback
