@@ -1,8 +1,8 @@
 
 ![GeeksForGeeks-POTD](https://socialify.git.ci/HackResist/GeeksforGeeks-POTD/image?description=1&descriptionEditable=Welcome%20to%20the%20repository.%20This%20repository%20Helps%20to%20Improve%20Your%20Coding%20Skills.%20&font=Rokkitt&name=1&owner=1&pattern=Solid&stargazers=1&theme=Dark)
 
-[Vertical Width of a Binary Tree
-(05-07-2024)](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/July%202024/05-07-2024) 
+[Populate Inorder Successor for all nodes
+(06-07-2024)](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/July%202024/06-07-2024) 
 
 <!--
 <p align="center">
@@ -219,6 +219,8 @@
   [04-07-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/July%202024/04-07-2024)
   
   [05-07-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/July%202024/05-07-2024)
+  
+  [06-07-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/July%202024/06-07-2024)
 </details>
 
 ## Feedback
