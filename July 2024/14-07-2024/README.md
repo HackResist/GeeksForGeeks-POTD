@@ -58,7 +58,7 @@ Given an array **arr** consisting of only **0**'s and **1**'s in random order. M
 
 
 ## Codes:
-  - [C++ Code](https://github.com/HackResist/GeeksForGeeks-POTD/blob/main/July%202024/13-07-2024/Shortest%20Path%20in%20Weighted%20undirected%20graph.cpp) 
- - [Java Code](https://github.com/HackResist/GeeksForGeeks-POTD/blob/main/July%202024/13-07-2024/Shortest%20Path%20in%20Weighted%20undirected%20graph.java)
- - [Python Code](https://github.com/HackResist/GeeksForGeeks-POTD/blob/main/July%202024/13-07-2024/Shortest%20Path%20in%20Weighted%20undirected%20graph.py)
- - [JavaScript Code](#blank)
+  - [C++ Code](https://github.com/HackResist/GeeksForGeeks-POTD/blob/main/July%202024/14-07-2024/Segregate%200s%20and%201s.cpp) 
+ - [Java Code](https://github.com/HackResist/GeeksForGeeks-POTD/blob/main/July%202024/14-07-2024/Segregate%200s%20and%201s.java)
+ - [Python Code](https://github.com/HackResist/GeeksForGeeks-POTD/blob/main/July%202024/14-07-2024/Segregate%200s%20and%201s.py)
+ - [JavaScript Code](https://github.com/HackResist/GeeksForGeeks-POTD/blob/main/July%202024/14-07-2024/Segregate%200s%20and%201s.js)
