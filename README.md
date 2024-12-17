@@ -1,15 +1,14 @@
 
-![GeeksForGeeks-POTD](https://socialify.git.ci/HackResist/GeeksforGeeks-POTD/image?description=1&descriptionEditable=Welcome%20to%20the%20repository.%20This%20repository%20Helps%20to%20Improve%20Your%20Coding%20Skills.%20&font=Rokkitt&name=1&owner=1&pattern=Solid&stargazers=1&theme=Dark)
 
-[Array to BST
-(25-07-2024)](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/July%202024/25-07-2024) 
+[Aggressive Cows
+(17-12-2024)](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/2024/December/17-12-2024) 
 
-<!--
+
 <p align="center">
   <a href="#blank"><img src="Geeksforgeeks.png" alt="HackResist"></a>
 </p>
 <div align='left'>
--->
+
 <h1>📖Geeksforgeeks Porblem Of The Day Solutions</h1> 
 </div>
 
@@ -17,245 +16,25 @@
 
  
  >If this repository is helpful to you, don't forget to give it a star.⭐
-## March Code:
-<details>
-<summary>This is March Solutions</summary>
 
-[17-03-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/17-03-2024)
-
-[18-03-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/18-03-2024)
-
-[19-03-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/19-03-2024)
-
-[20-03-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/20-03-2024) 
-
-[21-03-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/21-03-2024)
-
-[22-03-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/22-03-2024)
-
-[23-03-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/23-03-2024)
-
-[24-03-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/24-03-2024) 
-
-[25-03-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/25-03-2024)
-
-[26-03-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/26-03-2024)
-
-[27-03-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/27-03-2024)
-
-[28-03-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/28-03-2024) 
-
-
-[30-03-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/30-03-2024)
-
-[31-03-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/31-03-2024) 
-
-
-</details>
-
-
-## April Code:
-<details>
-<summary>This is April Solutions</summary>
-
-[01-04-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/1-04-2024)
-
-[02-04-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/2-04-2024)
-
-[03-04-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/03-04-2024)
-
-[04-04-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/04-04-2024)
-
-[05-04-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/05-04-2024)
-
-[06-04-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/06-04-2024)
-
-[07-04-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/07-04-2024)
-
-[08-04-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/08-04-2024)
-
-[09-04-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/09-04-2024)
-
-[10-04-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/10-04-2024)
-
-[11-04-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/11-04-2024)
-
-[12-04-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/12-04-2024)
-
-[13-04-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/13-04-2024)
-
-[14-04-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/14-04-2024)
-
-
-[15-04-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/15-04-2024)
-
-[16-04-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/16-04-2024)
-
-[17-04-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/17-04-2024)
-
-[18-04-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/18-04-2024)
-
-[19-04-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/19-04-2024)
-
-[20-04-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/20-04-2024)
-
-[21-04-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/21-04-2024)
-
-[22-04-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/22-04-2024)
-
-[23-04-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/23-04-2024)
-
-[24-04-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/24-04-2024)
-
-[25-04-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/25-04-2024)
-
-[26-04-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/26-04-2024)
-
-[27-04-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/27-04-2024)
-
-[28-04-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/28-04-2024)
-
-[30-04-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/30-04-2024)
-
-</details>
-
-## May Code:
-<details>
-<summary>This is May Solutions</summary>
-
-[01-05-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/01-05-2024)
-
-[02-05-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/02-05-2024)
-
-[03-05-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/03-05-2024)
-
-[04-05-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/04-05-2024)
-
-[05-05-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/05-05-2024)
-
-[06-05-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/06-05-2024)
-
-[07-05-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/07-05-2024)
-
-[08-05-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/08-05-2024)
-
-[09-05-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/09-05-2024)
-
-[10-05-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/10-05-2024)
-
-[11-05-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/11-05-2024)
-
-[12-05-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/12-05-2024)
-
-[13-05-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/13-05-2024)
-
-</details>
-
-## June
+## December
 
 <details>
-  <summary>This is June Solutions</summary>
-  
-  [06-06-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/June/06-06-2024)
-  
-  [07-06-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/June/07-06-2024)
-  
-  [08-06-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/June/08-06-2024)
-  
-  [09-06-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/June/09-06-2024)
-  
-  [10-06-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/June/10-06-2024)
-  
-  [11-06-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/June/11-06-2024)
-  
-  [12-06-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/June/12-06-2024)
-  
-  [13-06-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/June/13-06-2024)
-  
-  [14-06-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/June/14-06-2024)
-  
-  [15-06-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/June/15-06-2024)
-  
-  [16-06-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/June/16-06-2024)
-  
-  [17-06-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/June/17-06-2024)
-  
-  [18-06-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/June/18-06-2024)
-  
-  [19-06-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/June/19-06-2024)
-  
-  [20-06-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/June/20-06-2024)
-  
-  [21-06-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/June/21-06-2024)
-  
-  [22-06-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/June/22-06-2024)
-  
-  [23-06-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/June/23-06-2024)
-  
-  [24-06-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/June/24-06-2024)
-  
-  [25-06-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/June/25-06-2024)
-  
-  [26-06-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/June/26-06-2024)
-  
-  [27-06-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/June/27-06-2024)
-  
-  [28-06-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/June/28-06-2024)
-  
-  [29-06-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/June/29-06-2024)
-  
-  [30-06-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/June/30-06-2024)
-</details>
-
-## July
-
-<details>
-  <summary>This is July Month Solutions</summary>
+  <summary>This is December Month Solutions</summary>
     
-  [02-07-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/July%202024/02-07-2024)
+  [17-12-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/2024/December/17-12-2024)
   
-  [03-07-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/July%202024/03-07-2024)
-  
-  [04-07-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/July%202024/04-07-2024)
-  
-  [05-07-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/July%202024/05-07-2024)
-  
-  [06-07-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/July%202024/06-07-2024)
-  
-  [08-07-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/July%202024/08-07-2024)
-  
-  [09-07-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/July%202024/09-07-2024)
-  
-  [10-07-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/July%202024/10-07-2024)
-  
-  [11-07-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/July%202024/11-07-2024)
-  
-  [12-07-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/July%202024/12-07-2024)
-  
-  [13-07-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/July%202024/13-07-2024)
-  
-  [14-07-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/July%202024/14-07-2024)
-  
-  [15-07-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/July%202024/15-07-2024)
-  
-  [16-07-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/July%202024/16-07-2024)
-  
-  [20-07-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/July%202024/20-07-2024)
-  
-  [21-07-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/July%202024/21-07-2024)
-  
-  [22-07-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/July%202024/22-07-2024)
-  
-  [23-07-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/July%202024/23-07-2024)
-  
-  [24-07-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/July%202024/24-07-2024)
-  
-  [25-07-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/July%202024/25-07-2024)
-</details>
+  </details>
 
 ## Feedback
-> If you have any feedback or suggestions, please feel free to send them [here](https://geeksforgeeks-potd-solution-suggestion.vercel.app/).
 
+If you find this repository helpful or have ideas to make it better, feel free to:
+
+- 🌟 Star this repo if you like it!
+
+- 📝 Open an issue for suggestions or concerns.
+
+- 🤝 Contribute to enhance the project.
 
 
 ## ⭐️Features
