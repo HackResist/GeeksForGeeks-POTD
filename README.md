@@ -1,7 +1,7 @@
 
 
-[Allocate Minimum Pages
-(18-12-2024)](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/2024/December/18-12-2024) 
+[Kth Missing Positive Number in a Sorted Array
+(19-12-2024)](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/2024/December/19-12-2024) 
 
 <!--
 <p align="center">
@@ -23,7 +23,10 @@
   <summary>This is December Month Solutions</summary>
     
   [17-12-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/2024/December/17-12-2024)
+  
    [18-12-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/2024/December/18-12-2024)
+     
+   [19-12-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/2024/December/19-12-2024)
   
   </details>
 
