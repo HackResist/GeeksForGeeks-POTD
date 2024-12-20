@@ -1,7 +1,7 @@
 
 
-[Kth Missing Positive Number in a Sorted Array
-(19-12-2024)](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/2024/December/19-12-2024) 
+[Spirally traversing a matrix
+(20-12-2024)](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/2024/December/20-12-2024) 
 
 <!--
 <p align="center">
@@ -27,6 +27,8 @@
    [18-12-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/2024/December/18-12-2024)
      
    [19-12-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/2024/December/19-12-2024)
+   
+   [20-12-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/2024/December/20-12-2024)
   
   </details>
 
