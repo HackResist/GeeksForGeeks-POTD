@@ -1,7 +1,7 @@
 
 
-[Spirally traversing a matrix
-(20-12-2024)](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/2024/December/20-12-2024) 
+[Rotate by 90 degree
+(21-12-2024)](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/2024/December/21-12-2024) 
 
 <!--
 <p align="center">
@@ -29,6 +29,9 @@
    [19-12-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/2024/December/19-12-2024)
    
    [20-12-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/2024/December/20-12-2024)
+      
+   [21-12-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/2024/December/21-12-2024)
+
   
   </details>
 
