@@ -1,7 +1,7 @@
 
 
-[Rotate by 90 degree
-(21-12-2024)](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/2024/December/21-12-2024) 
+[Search in a Row-Column sorted matrix
+(22-12-2024)](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/2024/December/22-12-2024) 
 
 <!--
 <p align="center">
@@ -31,6 +31,8 @@
    [20-12-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/2024/December/20-12-2024)
       
    [21-12-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/2024/December/21-12-2024)
+         
+   [22-12-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/2024/December/22-12-2024)
 
   
   </details>
