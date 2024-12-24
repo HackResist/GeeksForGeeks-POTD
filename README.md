@@ -17,6 +17,24 @@
  
  >If this repository is helpful to you, don't forget to give it a star.⭐
 
+
+## ⭐️ Features
+
+- **Daily Solutions:**  
+  Receive solutions to GeeksforGeeks' Problem of the Day challenges directly from my GitHub.
+
+- **Multiple Languages:**  
+  Solutions available in Python, Java, C++, JavaScript, and other languages supported by GeeksforGeeks.
+
+- **Approach Explanation:**  
+  Each solution includes a detailed explanation of the approach, helping you understand the logic and methodology behind the code.
+
+- **Accessible Learning:**  
+  Suitable for beginners and experienced developers, offering insights into coding concepts and optimization techniques.
+
+
+
+# Quick access Solution :
 ## December
 
 <details>
@@ -52,13 +70,6 @@ If you find this repository helpful or have ideas to make it better, feel free t
 - 🤝 Contribute to enhance the project.
 
 
-## ⭐️Features
- - **Daily Solutions:**   Get solutions to GeeksforGeeks' Problem of the Day challenges delivered straight from my GitHub repository.
-
-
- - **Multiple Languages:** Solutions are provided in all supported languages by GeeksforGeeks, including Python, Java, C++, JavaScript, and more, allowing users to choose their preferred programming language.
-
- - **Accessible Learning:** Whether you're a beginner looking to understand coding concepts or an experienced developer seeking optimization techniques, these solutions provide valuable insights and learning opportunities.
 
 ## **💬Disclaimer:** 
 The solutions provided in this repository are intended for educational purposes only. While efforts are made to ensure accuracy and correctness, they may not always represent the most optimal or error-free solutions. Use them responsibly and strive to understand the underlying concepts and algorithms.
