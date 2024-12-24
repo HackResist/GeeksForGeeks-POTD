@@ -1,7 +1,7 @@
 
 
-[Search in a sorted Matrix
-(24-12-2024)](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/2024/December/24-12-2024) 
+[Set Matrix Zeroes
+(25-12-2024)](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/2024/December/25-12-2024) 
 
 <!--
 <p align="center">
@@ -55,6 +55,8 @@
    [23-12-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/2024/December/23-12-2024)
 
    [24-12-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/2024/December/24-12-2024)
+   
+   [25-12-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/2024/December/25-12-2024)
 
   
   </details>
