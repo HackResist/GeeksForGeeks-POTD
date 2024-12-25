@@ -1,7 +1,7 @@
 
 
-[Set Matrix Zeroes
-(25-12-2024)](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/2024/December/25-12-2024) 
+[Two Sum - Pair with Given Sum
+(26-12-2024)](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/2024/December/26-12-2024) 
 
 <!--
 <p align="center">
@@ -57,6 +57,8 @@
    [24-12-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/2024/December/24-12-2024)
    
    [25-12-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/2024/December/25-12-2024)
+   
+   [26-12-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/2024/December/26-12-2024)
 
   
   </details>
