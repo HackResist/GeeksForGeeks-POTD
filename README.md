@@ -1,7 +1,7 @@
 
 
-[Two Sum - Pair with Given Sum
-(26-12-2024)](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/2024/December/26-12-2024) 
+[Count pairs with given sum
+(27-12-2024)](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/2024/December/27-12-2024) 
 
 <!--
 <p align="center">
@@ -59,6 +59,8 @@
    [25-12-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/2024/December/25-12-2024)
    
    [26-12-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/2024/December/26-12-2024)
+   
+   [27-12-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/2024/December/27-12-2024)
 
   
   </details>
