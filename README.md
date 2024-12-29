@@ -1,7 +1,7 @@
 
 
-[Find All Triplets with Zero Sum
-(28-12-2024)](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/2024/December/28-12-2024) 
+[Intersection of Two arrays with Duplicate Elements
+(29-12-2024)](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/2024/December/29-12-2024) 
 
 <!--
 <p align="center">
@@ -63,6 +63,8 @@
    [27-12-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/2024/December/27-12-2024)
    
    [28-12-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/2024/December/28-12-2024)
+
+   [29-12-2024](https://github.com/HackResist/GeeksForGeeks-POTD/tree/main/2024/December/29-12-2024)
 
   
   </details>
